@@ -223,6 +223,11 @@ h6 {
   cursor: default;
 }
 
+.demo-link {
+  color: var(--mint);
+  width: fit-content;
+}
+
 /* ------------------------ QUICK LOOKS ------------------------ */
 .looks-section {
   padding: 90px 100px 0px;
